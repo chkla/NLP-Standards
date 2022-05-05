@@ -5,5 +5,3 @@ This repository contains the slide deck of my talk at the _Technical University 
 * Model Cards (Mitchell et al. 2019)
 * Good Benchmark’ Checklist (Reimers 2022)
 * Benchmark Checklist for Reviewers (Degjani et al. 2021 based on Gebru et al. 2021)
-
-### Literature/ Links
