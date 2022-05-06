@@ -1,4 +1,4 @@
-This repository contains the slide deck of my talk at the _Technical University of Munich_ (2022-05-03). I gave some brief insight into the NLP development pipeline (📚datasets -> 🤖 models -> 📊evaluation) by showing several templates for standardizing basic steps in NLP research for transparency and accountability:
+This repository contains the slide deck of my talk at the _Technical University of Munich_ (2022-05-03) @ the semonar on "The EU's AI Act Proposal: From Framework to Application". I gave some brief insight into the NLP development pipeline (📚datasets -> 🤖 models -> 📊evaluation) by showing several templates for standardizing basic steps in NLP research for transparency and accountability:
 * Data Statements ([Bender/ Friedman 2018](https://aclanthology.org/Q18-1041.pdf))
 * Datasheets ([Gebru et al. 2021](https://arxiv.org/pdf/1803.09010.pdf))
 * Responsible Data Use Checklist ([Rogers/ Baldwin/ Liens 2021](https://aclanthology.org/2021.findings-emnlp.414.pdf))
