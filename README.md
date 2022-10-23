@@ -6,3 +6,4 @@ This repository contains the slide deck of my talk at the _Technical University 
 * **Experimental Results Checklist** ([Dodge et al. 2019](https://arxiv.org/pdf/1909.03004.pdf))
 * **Benchmark Checklist** ([Reimers 2022](https://nils-reimers.de/talks/2022_03_Chasing_Wrong_Benchmarks.zip))
 * **Benchmark Checklist for Reviewers** ([Degjani et al. 2021](https://arxiv.org/pdf/2107.07002.pdf) based on [Gebru et al. 2021](https://arxiv.org/pdf/1803.09010.pdf))
+* **Framework for Algorithmic Auditing** [(Raji et al. 2020)[https://www.semanticscholar.org/reader/0412076e1004d030ac02de77bc44cc7d92b13ab9]]
