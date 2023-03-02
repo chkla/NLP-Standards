@@ -9,3 +9,4 @@ This repository contains the slide decks of my talks at the _Technical Universit
 * **Framework for Algorithmic Auditing** ([Raji et al. 2020](https://www.semanticscholar.org/reader/0412076e1004d030ac02de77bc44cc7d92b13ab9))
 * **Dataset Development Lifecycle** ([Hutchinson et al. 2020](https://www.semanticscholar.org/reader/27ad3d92a9d02698ae10be1a86f1f6e52c8f0644)])
 * **Preregistering NLP research** ([Van Miltenburg et al. 2021](https://aclanthology.org/2021.naacl-main.51/))
+* **Ethical Guidelines** ([Pistilli et al. 2023](https://huggingface.co/blog/ethics-diffusers))
