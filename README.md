@@ -10,3 +10,4 @@ This repository contains the slide decks of my talks at the _Technical Universit
 * **Dataset Development Lifecycle** ([Hutchinson et al. 2020](https://www.semanticscholar.org/reader/27ad3d92a9d02698ae10be1a86f1f6e52c8f0644)])
 * **Preregistering NLP research** ([Van Miltenburg et al. 2021](https://aclanthology.org/2021.naacl-main.51/))
 * **Ethical Guidelines** ([Pistilli et al. 2023](https://huggingface.co/blog/ethics-diffusers))
+* **Self-contained Artifacts** ([Arvan et al. 2022](https://aclanthology.org/2022.emnlp-main.150.pdf))
