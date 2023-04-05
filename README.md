@@ -1,4 +1,5 @@
 This repository contains the slide decks of my talks at the _Technical University of Munich_ (24.10.22) and our _text-as-data reading group (TaDa)_ (25.10.22). I gave some brief insight into the NLP development pipeline (📚datasets -> 🤖 models -> 📊evaluation) by showing several templates for standardizing basic steps in NLP research for transparency and accountability:
+* **Model Risk Card** ([Derczynski et al. 2023](https://arxiv.org/abs/2303.18190))
 * **Data Statements** ([Bender/ Friedman 2018](https://aclanthology.org/Q18-1041.pdf))
 * **Datasheets** ([Gebru et al. 2021](https://arxiv.org/pdf/1803.09010.pdf)) --> possible extensions [Heger et al. (2022)](https://www.semanticscholar.org/reader/b43e2d429f6a2f52336c9749651f34d354062418) 
 * **Responsible Data Use Checklist** ([Rogers/ Baldwin/ Liens 2021](https://aclanthology.org/2021.findings-emnlp.414.pdf))
